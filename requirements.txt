@@ -1,0 +1,9 @@
+Flask
+osmnx
+geopandas
+matplotlib
+shapely
+numpy
+contextily
+scipy
+tqdm
